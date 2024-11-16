@@ -1,0 +1,100 @@
+[image]  loaded '/home/nvidia/jetson-inference/examples/source.jpg'  (474x290, 3 channels)
+Detection 1:
+ Area: 35758.6640625
+ Bottom: 289.0
+ Center: (235.322021484375, 192.255126953125)
+ ClassID: 1
+ Confidence: 0.69384765625
+ Contains: <built-in method Contains of jetson.inference.detectNet.Detection object at 0x7f991d6c30>
+ Height: 193.48974609375
+ Instance: 0
+ Left: 142.91748046875
+ ROI: (142.91748046875, 95.51025390625, 327.7265625, 289.0)
+ Right: 327.7265625
+ Top: 95.51025390625
+ Width: 184.80908203125
+Detection 2:
+ Area: 24157.5546875
+ Bottom: 289.0
+ Center: (231.4453125, 216.716796875)
+ ClassID: 27
+ Confidence: 0.673828125
+ Contains: <built-in method Contains of jetson.inference.detectNet.Detection object at 0x7f9912a090>
+ Height: 144.56640625
+ Instance: 1
+ Left: 147.8935546875
+ ROI: (147.8935546875, 144.43359375, 314.9970703125, 289.0)
+ Right: 314.9970703125
+ Top: 144.43359375
+ Width: 167.103515625
+Detection 3:
+ Area: 16197.2451171875
+ Bottom: 208.720703125
+ Center: (349.7138671875, 161.815185546875)
+ ClassID: 3
+ Confidence: 0.95654296875
+ Contains: <built-in method Contains of jetson.inference.detectNet.Detection object at 0x7f9912a0c0>
+ Height: 93.81103515625
+ Instance: 2
+ Left: 263.384765625
+ ROI: (263.384765625, 114.90966796875, 436.04296875, 208.720703125)
+ Right: 436.04296875
+ Top: 114.90966796875
+ Width: 172.658203125
+Detection 4:
+ Area: 13139.751953125
+ Bottom: 288.8671875
+ Center: (137.82568359375, 194.560546875)
+ ClassID: 1
+ Confidence: 0.65185546875
+ Contains: <built-in method Contains of jetson.inference.detectNet.Detection object at 0x7f9472acf0>
+ Height: 188.61328125
+ Instance: 3
+ Left: 102.9931640625
+ ROI: (102.9931640625, 100.25390625, 172.658203125, 288.8671875)
+ Right: 172.658203125
+ Top: 100.25390625
+ Width: 69.6650390625
+Detection 5:
+ Area: 2041.791748046875
+ Bottom: 170.205078125
+ Center: (64.168212890625, 131.512451171875)
+ ClassID: 1
+ Confidence: 0.63134765625
+ Contains: <built-in method Contains of jetson.inference.detectNet.Detection object at 0x7f9472ad20>
+ Height: 77.38525390625
+ Instance: 4
+ Left: 50.975830078125
+ ROI: (50.975830078125, 92.81982421875, 77.360595703125, 170.205078125)
+ Right: 77.360595703125
+ Top: 92.81982421875
+ Width: 26.384765625
+Detection 6:
+ Area: 2039.153564453125
+ Bottom: 172.470703125
+ Center: (94.140380859375, 131.300048828125)
+ ClassID: 1
+ Confidence: 0.703125
+ Contains: <built-in method Contains of jetson.inference.detectNet.Detection object at 0x7f9472ad50>
+ Height: 82.34130859375
+ Instance: 5
+ Left: 81.758056640625
+ ROI: (81.758056640625, 90.12939453125, 106.522705078125, 172.470703125)
+ Right: 106.522705078125
+ Top: 90.12939453125
+ Width: 24.7646484375
+Detection 7:
+ Area: 1983.423095703125
+ Bottom: 169.2138671875
+ Center: (50.4840087890625, 130.6982421875)
+ ClassID: 1
+ Confidence: 0.63330078125
+ Contains: <built-in method Contains of jetson.inference.detectNet.Detection object at 0x7f9472ad80>
+ Height: 77.03125
+ Instance: 6
+ Left: 37.60986328125
+ ROI: (37.60986328125, 92.1826171875, 63.358154296875, 169.2138671875)
+ Right: 63.358154296875
+ Top: 92.1826171875
+ Width: 25.748291015625
+[image]  saved '/home/nvidia/jetson-inference/examples/result.png'  (474x290, 3 channels)
